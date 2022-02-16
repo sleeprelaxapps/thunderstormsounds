@@ -5,11 +5,11 @@ include_in_header: false
 ---
 
 **Last updated**  
-Dec 24 2020
+Feb 16 2022
 
 # Privacy Policy
 
-Alunt Apps built the Rain Sounds app as an Ad Supported app. This SERVICE is provided by Alunt Apps at no cost and is intended for use as is.
+SleepRelaxApps built the Rain Sounds app as an Ad Supported app. This SERVICE is provided by SleepRelaxApps at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -69,8 +69,5 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 2020-12-24
 
-# Contact Us
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at aluntapps@gmail.com.
 
   
